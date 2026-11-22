@@ -1,9 +1,8 @@
 # PDF catalog
 
-96 PDFs in 6 subject folders.
-Each entry summarizes page 1 in 30 words.
+96 PDFs in 6 subject folders.   I created these PDFs from conversations that I had with ChatGPT.  (I asked it to write up summaries in tex and then I edited the summaries.  A few of the files were not coauthored by GPT.)
 
-## First-page summaries
+## summaries
 
 ### Artificial Intelligence (27)
 
